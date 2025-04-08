@@ -1,7 +1,3 @@
-Here’s a more concise and refined `README.md` based on your request:
-
----
-
 # Call Center Analysis
 
 This repository contains an analysis of call center data, aimed at improving call center performance through actionable insights. The project includes the development of an interactive Power BI dashboard to visualize key trends and metrics.
